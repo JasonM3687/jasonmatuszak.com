@@ -1,2 +1,2 @@
-# jasonmatuszak.com
-Personal Website
+# Jason Matuszak's Personal Website Repository
+          jasonmatuszak.com
